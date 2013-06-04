@@ -1,2 +1,2 @@
 #Ruby-study
-ルビーの勉強用
+study Esoteric Language using Ruby
