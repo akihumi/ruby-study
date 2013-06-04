@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require '../lib/starry.rb'
+
+Starry.run(ARGF.read)
